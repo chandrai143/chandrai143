@@ -1,8 +1,8 @@
-### Hi there 👋
+### ABOUT ME 😊
 
-# Chandrai143
+## Chandrai143
 
-Profile
+# CONTACT ME ON DISCORD
 
 
 <p float="left">
@@ -10,16 +10,15 @@ Profile
   <img style="vertical-align: top;" src="https://discord.c99.nl/widget/theme-3/905260309743271996.png"/>
 
   
-
-  HOW TO GET THIS ?? SEE TUTORIAL 
+[WEBSITE](chandrai-kisku.repl.co)
+ 
 
   [YOUTUBE](https://youtube.com/@siduop)
 
   
 
-  CONTACT ME ON DISCORD 
-
-  JOIN [DISCORD](https://discord.gg/erxSQ3UvDd)
+ 
+ [DISCORD](https://discord.gg/erxSQ3UvDd)
 
 ![alt text](https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg) 
 
