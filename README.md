@@ -8,6 +8,10 @@
 <p float="left">
 
   <img style="vertical-align: top;" src="https://discord.c99.nl/widget/theme-3/905260309743271996.png"/>
+  
+  <p float="left">
+
+  <img style="vertical-align: top;" src="https://discord.c99.nl/widget/theme-4/905254439441535026.png"/>
 
   
 [WEBSITE](chandrai-kisku.repl.co)
